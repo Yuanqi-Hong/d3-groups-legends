@@ -1,0 +1,122 @@
+occupation,num_workers_m,weekly_earnings_m,num_workers_f,weekly_earnings_f,category
+Chief executives,823,2415,313,1920,"Management, business, and financial operations occupations"
+General and operations managers,598,1488,321,1134,"Management, business, and financial operations occupations"
+Marketing and sales managers,566,1747,428,1288,"Management, business, and financial operations occupations"
+Administrative services managers,89,1629,57,1013,"Management, business, and financial operations occupations"
+Computer and information systems managers,428,1897,165,1629,"Management, business, and financial operations occupations"
+Financial managers,500,1719,611,1222,"Management, business, and financial operations occupations"
+Human resources managers,92,1748,211,1280,"Management, business, and financial operations occupations"
+Industrial production managers,202,1526,63,1312,"Management, business, and financial operations occupations"
+Purchasing managers,90,1420,104,1138,"Management, business, and financial operations occupations"
+Construction managers,526,1439,56,1243,"Management, business, and financial operations occupations"
+Education administrators,304,1561,497,1243,"Management, business, and financial operations occupations"
+Food service managers,421,894,394,674,"Management, business, and financial operations occupations"
+Lodging managers,54,982,62,844,"Management, business, and financial operations occupations"
+Medical and health services managers,177,1490,433,1177,"Management, business, and financial operations occupations"
+"Property, real estate, and community association managers",181,1163,241,873,"Management, business, and financial operations occupations"
+Social and community service managers,101,1281,236,1052,"Management, business, and financial operations occupations"
+"Managers, all other",1841,1629,1163,1251,"Management, business, and financial operations occupations"
+"Wholesale and retail buyers, except farm products",67,882,87,888,"Management, business, and financial operations occupations"
+"Purchasing agents, except wholesale, retail, and farm products",143,1144,96,1085,"Management, business, and financial operations occupations"
+"Claims adjusters, appraisers, examiners, and investigators",128,1108,218,925,"Management, business, and financial operations occupations"
+Compliance officers,106,1501,134,1296,"Management, business, and financial operations occupations"
+Human resources workers,182,1236,482,1035,"Management, business, and financial operations occupations"
+Training and development specialists,59,1255,55,937,"Management, business, and financial operations occupations"
+Management analysts,351,1651,255,1315,"Management, business, and financial operations occupations"
+Market research analysts and marketing specialists,110,1357,149,1061,"Management, business, and financial operations occupations"
+"Business operations specialists, all other",118,1361,132,1013,"Management, business, and financial operations occupations"
+Accountants and auditors,622,1389,890,1065,"Management, business, and financial operations occupations"
+Financial analysts,156,1590,108,1369,"Management, business, and financial operations occupations"
+Personal financial advisors,267,1662,131,979,"Management, business, and financial operations occupations"
+Credit counselors and loan officers,127,1332,193,958,"Management, business, and financial operations occupations"
+Computer systems analysts,311,1495,211,1270,Professional and related occupations
+Computer programmers,333,1539,89,1363,Professional and related occupations
+"Software developers, applications and systems software",1174,1863,265,1543,Professional and related occupations
+Computer support specialists,319,1134,124,919,Professional and related occupations
+"Computer occupations, all other",484,1250,142,1059,Professional and related occupations
+Operations research analysts,71,1570,74,1205,Professional and related occupations
+Civil engineers,332,1524,61,1343,Professional and related occupations
+"Engineers, all other",473,1571,73,1436,Professional and related occupations
+"Engineering technicians, except drafters",269,1102,70,884,Professional and related occupations
+Medical scientists,82,1383,80,1270,Professional and related occupations
+"Physical scientists, all other",147,1565,122,1409,Professional and related occupations
+"Miscellaneous life, physical, and social science technicians",70,970,63,766,Professional and related occupations
+Counselors,178,901,472,894,Professional and related occupations
+Social workers,122,935,591,900,Professional and related occupations
+Lawyers,444,2105,337,1753,Professional and related occupations
+Postsecondary teachers,551,1414,434,1208,Professional and related occupations
+Elementary and middle school teachers,614,1139,2224,987,Professional and related occupations
+Secondary school teachers,392,1226,524,1091,Professional and related occupations
+Special education teachers,54,1051,332,1017,Professional and related occupations
+Other teachers and instructors,155,1128,265,820,Professional and related occupations
+Teacher assistants,67,642,523,537,Professional and related occupations
+Designers,327,1172,273,857,Professional and related occupations
+Editors,56,1123,68,992,Professional and related occupations
+Writers and authors,50,1171,57,1045,Professional and related occupations
+Pharmacists,107,2228,147,1834,Professional and related occupations
+Physicians and surgeons,463,2277,352,1759,Professional and related occupations
+Physical therapists,64,1341,118,1297,Professional and related occupations
+Registered nurses,283,1260,2253,1143,Professional and related occupations
+Clinical laboratory technologists and technicians,94,1061,203,845,Professional and related occupations
+Diagnostic related technologists and technicians,85,1404,186,1041,Professional and related occupations
+Emergency medical technicians and paramedics,145,1119,58,733,Professional and related occupations
+Health practitioner support technologists and technicians,98,858,371,678,Professional and related occupations
+Licensed practical and licensed vocational nurses,62,817,438,814,Professional and related occupations
+"Nursing, psychiatric, and home health aides",164,583,1223,493,Service occupations
+"Bailiffs, correctional officers, and jailers",284,825,106,669,Service occupations
+Police and sheriff's patrol officers,595,1024,94,985,Service occupations
+Security guards and gaming surveillance officers,570,616,170,548,Service occupations
+Chefs and head cooks,310,655,72,514,Service occupations
+First-line supervisors of food preparation and serving workers,200,613,227,500,Service occupations
+Cooks,859,481,506,436,Service occupations
+Food preparation workers,242,449,269,410,Service occupations
+Bartenders,98,600,112,515,Service occupations
+"Combined food preparation and serving workers, including fast food",75,415,100,401,Service occupations
+Waiters and waitresses,319,533,592,475,Service occupations
+Dining room and cafeteria attendants and bartender helpers,79,444,55,481,Service occupations
+First-line supervisors of housekeeping and janitorial workers,113,749,77,515,Service occupations
+Janitors and building cleaners,1136,574,459,481,Service occupations
+Maids and housekeeping cleaners,128,508,687,439,Service occupations
+First-line supervisors of gaming workers,73,837,53,763,Service occupations
+Personal care aides,127,520,608,479,Service occupations
+Recreation and fitness workers,82,726,118,565,Service occupations
+First-line supervisors of retail sales workers,1376,891,1013,639,Sales and office occupations
+First-line supervisors of non-retail sales workers,541,1151,274,965,Sales and office occupations
+Cashiers,378,493,982,422,Sales and office occupations
+Retail salespersons,1160,704,736,523,Sales and office occupations
+Advertising sales agents,87,895,106,882,Sales and office occupations
+Insurance sales agents,198,1058,242,795,Sales and office occupations
+"Securities, commodities, and financial services sales agents",154,1416,77,911,Sales and office occupations
+"Sales representatives, services, all other",339,1332,120,902,Sales and office occupations
+"Sales representatives, wholesale and manufacturing",796,1222,308,956,Sales and office occupations
+Real estate brokers and sales agents,219,1159,269,818,Sales and office occupations
+"Sales and related workers, all other",107,1147,89,799,Sales and office occupations
+First-line supervisors of office and administrative support workers,408,987,854,819,Sales and office occupations
+Billing and posting clerks,58,718,347,691,Sales and office occupations
+"Bookkeeping, accounting, and auditing clerks",92,743,625,716,Sales and office occupations
+Customer service representatives,646,712,1234,637,Sales and office occupations
+Receptionists and information clerks,66,652,826,599,Sales and office occupations
+Dispatchers,110,753,145,691,Sales and office occupations
+Postal service mail carriers,158,965,108,856,Sales and office occupations
+"Production, planning, and expediting clerks",118,1043,120,798,Sales and office occupations
+"Shipping, receiving, and traffic clerks",379,616,165,596,Sales and office occupations
+Stock clerks and order fillers,643,571,339,538,Sales and office occupations
+Secretaries and administrative assistants,119,852,2046,735,Sales and office occupations
+"Office clerks, general",142,780,793,670,Sales and office occupations
+"Office and administrative support workers, all other",122,768,352,756,Sales and office occupations
+Miscellaneous agricultural workers,574,553,127,453,"Natural resources, construction, and maintenance occupations"
+First-line supervisors of production and operating workers,588,1007,133,716,"Production, transportation, and material moving occupations"
+"Electrical, electronics, and electromechanical assemblers",73,682,50,587,"Production, transportation, and material moving occupations"
+Miscellaneous assemblers and fabricators,595,700,362,559,"Production, transportation, and material moving occupations"
+Bakers,67,488,68,464,"Production, transportation, and material moving occupations"
+"Butchers and other meat, poultry, and fish processing workers",196,621,63,487,"Production, transportation, and material moving occupations"
+"Food processing workers, all other",119,701,52,545,"Production, transportation, and material moving occupations"
+"Metal workers and plastic workers, all other",303,679,78,574,"Production, transportation, and material moving occupations"
+"Inspectors, testers, sorters, samplers, and weighers",443,853,275,637,"Production, transportation, and material moving occupations"
+Packaging and filling machine operators and tenders,128,598,147,516,"Production, transportation, and material moving occupations"
+"Production workers, all other",653,716,238,570,"Production, transportation, and material moving occupations"
+Bus drivers,209,671,148,517,"Production, transportation, and material moving occupations"
+Driver/sales workers and truck drivers,2689,807,139,589,"Production, transportation, and material moving occupations"
+Taxi drivers and chauffeurs,308,623,54,453,"Production, transportation, and material moving occupations"
+"Laborers and freight, stock, and material movers, hand",1196,595,254,500,"Production, transportation, and material moving occupations"
+"Packers and packagers, hand",158,500,210,462,"Production, transportation, and material moving occupations"
