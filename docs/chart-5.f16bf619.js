@@ -978,4 +978,4 @@ parcelRequire=function(e,r,n,t){var i="function"==typeof parcelRequire&&parcelRe
 },{"d3":"UzF0"}],"5qTX":[function(require,module,exports) {
 "use strict";var r=require("d3"),t=n(r),e=require("./annotator"),a=n(e);function n(r){if(r&&r.__esModule)return r;var t={};if(null!=r)for(var e in r)Object.prototype.hasOwnProperty.call(r,e)&&(t[e]=r[e]);return t.default=r,t}var o={top:30,left:30,right:30,bottom:30},i=300-o.top-o.bottom,l=600-o.left-o.right,u=t.select("#chart-5"),c=t.scaleLinear().domain([5,60]).range([0,l]),f=t.scaleLinear().domain([10,65]).range([i,0]);function s(r){}
 },{"d3":"UzF0","./annotator":"gTbL"}]},{},["5qTX"], null)
-//# sourceMappingURL=/change-me-to-match-your-repo/chart-5.f16bf619.map
+//# sourceMappingURL=/d3-groups-legends/chart-5.f16bf619.map
