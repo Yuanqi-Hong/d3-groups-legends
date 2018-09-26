@@ -1,1 +1,2 @@
-# d3-groups-legends
+- D3 groups `<g>`
+- legends of a chart
