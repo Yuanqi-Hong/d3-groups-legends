@@ -79,6 +79,7 @@ function ready(datapoints) {
     .attr('x2', xPositionScale(2000))
     .attr('y1', yPositionScale(0))
     .attr('y2', yPositionScale(2000))
+    .attr('stroke-linecap', 'round')
 
   var differences = [0.9, 0.8, 0.7]
   svg
@@ -94,6 +95,7 @@ function ready(datapoints) {
     .attr('y1', yPositionScale(0))
     .attr('y2', d => yPositionScale(2000 * d))
     .attr('opacity', 0.5)
+    .attr('stroke-linecap', 'round')
 
   svg
     .append('g')
