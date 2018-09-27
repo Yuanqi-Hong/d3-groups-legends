@@ -18,7 +18,7 @@ let xPositionScale = d3
   .scaleLinear()
   .domain([0, 10])
   .range([0, width])
-  
+
 let yPositionScale = d3
   .scaleLinear()
   .domain([0, 1000])
@@ -92,11 +92,10 @@ function ready(datapoints) {
   annotator.addGroupRect(svg)
   svg.classed('circle-coords-hidden', true)
 
-  d3.select('#toggle-coords-1')
-    .on('click', function(d) {
-      let hasClass = svg.classed('circle-coords-hidden')
-      svg.classed('circle-coords-hidden', !hasClass)
-    })
+  d3.select('#toggle-coords-1').on('click', function(d) {
+    let hasClass = svg.classed('circle-coords-hidden')
+    svg.classed('circle-coords-hidden', !hasClass)
+  })
 
   /* Set up axes */
   var xAxis = d3.axisBottom(xPositionScale)

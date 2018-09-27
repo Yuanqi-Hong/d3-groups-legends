@@ -11,7 +11,6 @@ var width = 600 - margin.left - margin.right
 var container = d3.select('#chart-5')
 
 // Let's make some scales
-
 var xPositionScale = d3
   .scaleLinear()
   .domain([5, 60])
