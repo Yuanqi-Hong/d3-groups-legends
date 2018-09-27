@@ -50,10 +50,8 @@ function ready(datapoints) {
     .data(nested)
     .enter()
     .append('g')
-    .attr('transform', d => {
-      // Translate using template literals
-      return `translate(0,${yPositionScale(d.key)})`
-    })
+    // Translate using template literals
+    .attr('transform', d => `translate(0,${yPositionScale(d.key)})`)
     .each(function(d) {
       var g = d3.select(this)
 
@@ -105,8 +103,10 @@ function ready(datapoints) {
     .call(xAxis)
 
   // make the axis lines dashed
-  svg.selectAll('.x-axis line').attr('stroke-dasharray', '3 5')
-  .attr('stroke-linecap', 'round')
+  svg
+    .selectAll('.x-axis line')
+    .attr('stroke-dasharray', '3 5')
+    .attr('stroke-linecap', 'round')
 
   // remove the non-dashed weird line
   svg.select('.x-axis .domain').remove()
